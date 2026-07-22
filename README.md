@@ -9,3 +9,4 @@ This repository contains my daily Excel practice from ITVedant.
 - ✅ Day 03
 - ✅ Day 04
 - ✅ Day 05
+- ✅ Day 06
